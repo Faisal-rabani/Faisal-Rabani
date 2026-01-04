@@ -1,58 +1,27 @@
-# Hi there, I'm a Full Stack Developer! 👋
+## 👋 About Me
 
-I am a passionate Full Stack Developer focused on building scalable web applications and automating workflows. Currently, I'm expanding my mobile development skills.
+- Full Stack Developer focused on building scalable, production-ready web applications using modern JavaScript and Python ecosystems.  
+- Enjoy designing end-to-end solutions: from database schema and REST APIs to responsive, user-friendly frontends.  
+- Love working with automation, cloud tools, and CI/CD to ship faster and more reliably.  
+- Interested in system design, backend architecture, and integrating AI/automation into real-world products.  
 
-- 🔭 I’m currently working on projects using **Flask** and **React**.
-- 🌱 I’m currently learning **React Native** to bring my web skills to mobile.
-- 💬 Ask me about **Python**, **Automation**, or **Database Design**.
+## 🛠 Tech Stack
 
----
+- **Languages:** JavaScript, Python, HTML, CSS, SQL  
+- **Frameworks & Libraries:** React.js, Node.js, Express.js, Flask, TailwindCSS  
+- **Databases:** MySQL, MongoDB, Firebase Firestore  
+- **Cloud & Dev Tools:** Firebase Functions, Git, Docker, Postman, Kiro, VS Code, N8n, PyCharm  
+- **AI & Automation:** N8n (AI agents, API automation), API integrations, workflow orchestration  
+- **Methodology:** Agile Methodology / Scrum, sprint-based delivery, code review practices  
+- **Soft Skills:** Team leadership, technical communication, collaboration with cross-functional teams, mentoring juniors/peers  
 
-### 🚀 Tech Stack & Tools
+## 🚀 What I’m Working On
 
-**Languages & Frontend**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- Building full stack projects with React.js, Node.js, and Firebase to improve performance, scalability, and DX.  
+- Experimenting with N8n to create AI-powered workflows and automate repetitive backend and operations tasks.  
+- Improving problem-solving skills with DSA and learning better system design patterns for scalable applications.  
 
-**Backend & Databases**
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+## 🎯 What I’m Looking For
 
-**DevOps & Productivity**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![N8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-
----
-
-### 📊 Soft Skills & Methodology
-* **Methodology:** Agile / Scrum
-* **Leadership:** Team Leadership & Technical Communication
-* **Tools:** VS Code, PyCharm, Kiro
-
----
-
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-
-<!--
-**Faisal-rabani/Faisal-Rabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Opportunities to work on real-world SaaS, dashboards, or API-driven products as a Full Stack / Backend Developer.  
+- Teams that value clean code, testing, documentation, and continuous learning.  
