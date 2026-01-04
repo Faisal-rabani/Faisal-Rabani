@@ -5,15 +5,15 @@
 <img src="https://komarev.com/ghpvc/?username=Faisal-rabani&label=Profile%20views&color=0e75b6&style=flat" alt="Faisal-rabani" />
 </p>
 
-## 👋 About Me
-- 🔭 **Expertise:** Developing robust full-stack applications using **Python (Flask)** and **JavaScript (React/Node.js)**.
-- ⚙️ **System Design:** Skilled in designing scalable backend architectures and optimizing **SQL (MySQL)** and **NoSQL (MongoDB/Firebase)** databases.
-- 🤖 **Automation:** Power-user of **N8n** for creating AI agents, workflow orchestration, and API-driven automation.
-- 🌱 **Learning:** Currently mastering **React Native** to bridge the gap between web and mobile ecosystems.
+##  About Me
+-  **Expertise:** Developing robust full-stack applications using **Python (Flask)** and **JavaScript (React/Node.js)**.
+-  **System Design:** Skilled in designing scalable backend architectures and optimizing **SQL (MySQL)** and **NoSQL (MongoDB/Firebase)** databases.
+-  **Automation:** Power-user of **N8n** for creating AI agents, workflow orchestration, and API-driven automation.
+-  **Learning:** Currently mastering **React Native** to bridge the gap between web and mobile ecosystems.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Skills & Tools |
 | :--- | :--- |
@@ -31,12 +31,11 @@ Currently focused on expanding into mobile development:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Faisal-rabani?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Faisal-rabani?style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/m/Faisal-rabani?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faisal-rabani&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&raw=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-rabani&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&raw=true" />
 </p>
 
 
