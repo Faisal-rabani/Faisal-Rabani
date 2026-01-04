@@ -34,9 +34,11 @@ Currently focused on expanding into mobile development:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Faisal-rabani&show_icons=true&theme=radical" />
-
+  <img src="https://img.shields.io/github/stars/Faisal-rabani?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Faisal-rabani?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/m/Faisal-rabani?style=for-the-badge" />
 </p>
+
 
 
 
