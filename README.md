@@ -54,6 +54,9 @@ I believe in continuous growth. Here is what my current technical focus looks li
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisalrabani631@gmail.com)
 
 ---
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Faisal-rabani&label=Profile%20views&color=0e75b6&style=flat" alt="Faisal-rabani" />
+</p>
 
 ---
 <p align="center">
