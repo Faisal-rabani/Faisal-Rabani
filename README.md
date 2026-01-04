@@ -31,12 +31,13 @@ Currently focused on expanding into mobile development:
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faisal-rabani&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&raw=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-rabani&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&raw=true" />
+  <img src="https://img.shields.io/github/followers/Faisal-rabani?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Faisal-rabani?style=for-the-badge" />
 </p>
+
 
 
 
