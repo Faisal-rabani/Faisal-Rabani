@@ -49,9 +49,11 @@ I believe in continuous growth. Here is what my current technical focus looks li
 ---
 
 ## 📫 Let's Build Something Great
-* 🌐 **Portfolio:** [faisal-port-f4ba92.netlify.app](https://faisal-port-f4ba92.netlify.app/)
-* 💼 **LinkedIn:** [sk-faisal-rabani](https://www.linkedin.com/in/sk-faisal-rabani-288760367/)
-* 📧 **Direct:** [faisalrabani631@gmail.com](mailto:faisalrabani631@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-faisal-rabani-288760367/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://faisal-port-f4ba92.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisalrabani631@gmail.com)
+
+---
 
 ---
 <p align="center">
