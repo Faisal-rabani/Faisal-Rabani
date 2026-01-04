@@ -31,11 +31,21 @@ Currently focused on expanding into mobile development:
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faisal-rabani&show_icons=true&theme=radical" alt="Faisal's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-rabani&layout=compact&theme=radical" alt="Faisal's Top Langs" height="150" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Faisal-rabani&show_icons=true&theme=radical" 
+    alt="Faisal Rabani GitHub Stats" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-rabani&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    height="160"
+  />
 </p>
+
 
 ---
 
