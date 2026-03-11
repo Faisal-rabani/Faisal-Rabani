@@ -1,18 +1,6 @@
 <div align="center">
 
-```
- _____ _    ___ ____    _    _     
-|  ___/ \  |_ _/ ___|  / \  | |    
-| |_ / _ \  | |\___ \ / _ \ | |    
-|  _/ ___ \ | | ___) / ___ \| |___ 
-|_|/_/   \_\___|____/_/   \_\_____|
-```
-
-### SK Faisal Rabani
-
-**Full Stack Developer · Automation Architect · Problem Solver**
-
-*Building scalable web apps, real-time systems & AI-powered automation.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=SK%20Faisal%20Rabani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Automation%20Architect&descAlignY=58&descSize=18&descColor=a0c4ff" />
 
 <br/>
 
@@ -20,8 +8,6 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FaisalRhji)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4500.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://faisal-port-f4ba92.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisalrabani631@gmail.com)
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Faisal-rabani&label=Profile+Views&color=FF4500&style=flat-square)
 
@@ -31,40 +17,11 @@
 
 ## 👤 About Me
 
-<table>
-  <tr>
-    <td>🧑‍💻 <b>Name</b></td>
-    <td>SK Faisal Rabani</td>
-  </tr>
-  <tr>
-    <td>🌍 <b>Location</b></td>
-    <td>Odisha, India</td>
-  </tr>
-  <tr>
-    <td>💼 <b>Experience</b></td>
-    <td>Full Stack Developer Intern @ Bytebix Technologies</td>
-  </tr>
-  <tr>
-    <td>🏗️ <b>Built</b></td>
-    <td>15+ REST APIs · 25+ React components · 13 Firebase Cloud Functions</td>
-  </tr>
-  <tr>
-    <td>📈 <b>Impact</b></td>
-    <td>40% faster APIs · 35% faster load times · 99.5% uptime</td>
-  </tr>
-  <tr>
-    <td>🔥 <b>Now</b></td>
-    <td>30 Days × 30 Projects — React Native challenge</td>
-  </tr>
-  <tr>
-    <td>📚 <b>Learning</b></td>
-    <td>DSA in Python &nbsp;·&nbsp; AWS Cloud</td>
-  </tr>
-  <tr>
-    <td>🤝 <b>Methodology</b></td>
-    <td>Agile / Scrum · Clean Code · Documented everything</td>
-  </tr>
-</table>
+A passionate Full Stack Developer from Odisha, India, focused on building products that are fast, scalable, and actually solve real problems. With hands-on experience at **Bytebix Technologies**, shipped **15+ REST APIs**, **25+ React components**, and **13 Firebase Cloud Functions** — achieving 40% faster API responses and 99.5% production uptime across live client projects.
+
+The approach is simple: write clean code, automate the repetitive stuff with **n8n**, and ship things that work. Whether it's a responsive frontend with React, a backend API in Node.js or Flask, or a full automation pipeline connecting multiple services — the goal is always the same: build something that scales.
+
+Currently grinding through a **30 Days × 30 Projects** challenge in **React Native**, while also going deep into **DSA with Python** and **AWS Cloud** — because great engineers never stop learning.
 
 ---
 
@@ -105,21 +62,8 @@
 
 ---
 
-## 🗺️ Roadmap
-
-```
-[✅] Phase 1 — Full Stack mastery   (React.js + Node.js + Python/Flask)
-[🔥] Phase 2 — Mobile Dev           (React Native)         ← you are here
-[📚] Learning Now                   (DSA in Python + AWS Cloud)
-[⏳] Phase 3 — Cloud & AI SaaS      (Advanced Architecture + AI-driven Products)
-```
-
----
-
 <div align="center">
 
-*"Ship it. Improve it. Repeat."*
-
-⭐ **If any of my repos helped you — drop a star. It means a lot.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
 </div>
