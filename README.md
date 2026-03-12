@@ -19,10 +19,6 @@
 
 ### 🧬 · A B O U T · M E · 🧬
 
-</div>
-
-<div align="center">
-
 Full Stack Developer from Odisha, India — building fast, scalable products that solve real problems. Shipped **15+ REST APIs**, **25+ React components** & **13 Firebase Cloud Functions** at **Bytebix Technologies**. Clean code advocate, **n8n** automation builder, and currently deep in **React Native**, **DSA with Python** & **AWS Cloud**.
 
 </div>
@@ -57,11 +53,10 @@ Full Stack Developer from Odisha, India — building fast, scalable products tha
 
 <div align="center">
 
-### 📊 · G I T H U B · S T A T S · 📊
+### ⏱️ · W A K A T I M E · S T A T S · ⏱️
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faisal-rabani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-rabani&layout=compact&theme=tokyonight&hide_border=true" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -92,3 +87,4 @@ Full Stack Developer from Odisha, India — building fast, scalable products tha
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
 </div>
+
