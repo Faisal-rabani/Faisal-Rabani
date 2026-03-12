@@ -57,9 +57,11 @@ Full Stack Developer from Odisha, India — building fast, scalable products tha
 
 <div align="center">
 
-### 🎖️ · G I T H U B · T R O P H I E S · 🎖️
+### 📊 · G I T H U B · S T A T S · 📊
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faisal-rabani&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+<img src="https://github-readme-stats.vercel.app/api?username=Faisal-rabani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-rabani&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
