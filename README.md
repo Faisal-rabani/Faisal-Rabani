@@ -51,12 +51,31 @@ Currently grinding through a **30 Days × 30 Projects** challenge in **React Nat
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Faisal-rabani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-rabani&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Faisal-rabani&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal-rabani&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faisal-rabani&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
