@@ -15,19 +15,23 @@
 
 ---
 
-## 👤 About Me
+<div align="center">
 
-A passionate Full Stack Developer from Odisha, India, focused on building products that are fast, scalable, and actually solve real problems. With hands-on experience at **Bytebix Technologies**, shipped **15+ REST APIs**, **25+ React components**, and **13 Firebase Cloud Functions** — achieving 40% faster API responses and 99.5% production uptime across live client projects.
+### 🧬 · A B O U T · M E · 🧬
 
-The approach is simple: write clean code, automate the repetitive stuff with **n8n**, and ship things that work. Whether it's a responsive frontend with React, a backend API in Node.js or Flask, or a full automation pipeline connecting multiple services — the goal is always the same: build something that scales.
+</div>
 
-Currently grinding through a **30 Days × 30 Projects** challenge in **React Native**, while also going deep into **DSA with Python** and **AWS Cloud** — because great engineers never stop learning.
+<div align="center">
+
+Full Stack Developer from Odisha, India — building fast, scalable products that solve real problems. Shipped **15+ REST APIs**, **25+ React components** & **13 Firebase Cloud Functions** at **Bytebix Technologies**. Clean code advocate, **n8n** automation builder, and currently deep in **React Native**, **DSA with Python** & **AWS Cloud**.
+
+</div>
 
 ---
 
-## ⚡ Tech Stack
-
 <div align="center">
+
+### 🛸 · T E C H · S T A C K · 🛸
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
@@ -51,29 +55,29 @@ Currently grinding through a **30 Days × 30 Projects** challenge in **React Nat
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faisal-rabani&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+### 🎖️ · G I T H U B · T R O P H I E S · 🎖️
+
+<img src="https://github-profile-trophy.vercel.app/?username=Faisal-rabani&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
 </div>
 
 ---
 
-## 🔥 Streak
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal-rabani&theme=tokyonight&hide_border=true" />
+### 🌋 · S T R E A K · 🌋
+
+<img src="https://streak-stats.demolab.com?user=Faisal-rabani&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
+
+### 🕸️ · C O N T R I B U T I O N · G R A P H · 🕸️
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faisal-rabani&theme=tokyo-night&hide_border=true&area=true" />
 
