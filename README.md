@@ -4,32 +4,12 @@
 
 <br/>
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/sk-faisal-rabani-288760367/)
-[
-
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-
-](https://x.com/FaisalRhji)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4500.svg?style=for-the-badge&logo=firefox&logoColor=white)
-
-](https://faisal-port-f4ba92.netlify.app/)
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:faisalrabani631@gmail.com)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-faisal-rabani-288760367/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FaisalRhji)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4500.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://faisal-port-f4ba92.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisalrabani631@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Faisal-rabani&label=Profile+Views&color=FF4500&style=flat-square)
-
-
 
 </div>
 
@@ -49,91 +29,23 @@ Full Stack Developer from Odisha, India — building fast, scalable products tha
 
 ### 🛸 · T E C H · S T A C K · 🛸
 
-
-
 ![JavaScript](https://skillicons.dev/icons?i=js)
-
-
-
-
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-
-
-
-
 ![Python](https://skillicons.dev/icons?i=python)
-
-
-
-
 ![HTML](https://skillicons.dev/icons?i=html)
-
-
-
-
 ![CSS](https://skillicons.dev/icons?i=css)
-
-
-
-
 ![React](https://skillicons.dev/icons?i=react)
-
-
-
-
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-
-
-
-
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-
-
-
-
 ![Express](https://skillicons.dev/icons?i=express)
-
-
-
-
 ![Flask](https://skillicons.dev/icons?i=flask)
-
-
-
-
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-
-
-
-
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-
-
-
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-
-
-
-
 ![Docker](https://skillicons.dev/icons?i=docker)
-
-
-
-
 ![AWS](https://skillicons.dev/icons?i=aws)
-
-
-
-
 ![Git](https://skillicons.dev/icons?i=git)
-
-
-
-
 ![Postman](https://skillicons.dev/icons?i=postman)
-
-
 
 </div>
 
@@ -154,11 +66,7 @@ Full Stack Developer from Odisha, India — building fast, scalable products tha
 
 ### 🌋 · S T R E A K · 🌋
 
-<img src="https://streak-stats.demolab.com?user=Faisal-rabani&theme=tokyonight&hide_border=true&card_width=800" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Faisal-rabani&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img src="https://streak-stats.demolab.com?user=Faisal-rabani&theme=tokyonight&hide_border=true" />
 
 </div>
 
