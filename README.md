@@ -66,7 +66,7 @@ Full Stack Developer from Odisha, India — building fast, scalable products tha
 
 ### 🌋 · S T R E A K · 🌋
 
-<img src="https://streak-stats.demolab.com?user=Faisal-rabani&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Faisal-rabani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 </div>
 
