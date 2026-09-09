@@ -1,80 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=SK%20Faisal%20Rabani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Automation%20Architect&descAlignY=58&descSize=18&descColor=a0c4ff" />
+<h1>SK FAISAL RABANI</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer;Automation+Architect;React+-+Node.js+-+Python" alt="Typing SVG" />
+
+――――――――――――――――――――――――――――――――――――――――
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-faisal-rabani-288760367/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FaisalRhji)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/faisal_2525/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Faisal-rabani&label=PROFILE+VIEWS&color=000000&style=for-the-badge)
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-faisal-rabani-288760367/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/FaisalRhji)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4500.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://faisal-port-f4ba92.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisalrabani631@gmail.com)
+<div align="center"><b>›› ABOUT</b></div>
+<hr/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Faisal-rabani&label=Profile+Views&color=FF4500&style=flat-square)
+<blockquote>
+Full Stack Developer based in Odisha, India.<br/>
+Shipped 15+ REST APIs · 25+ React components · 13 Firebase Cloud Functions.<br/>
+Currently deep in React Native, DSA (Python) and AWS Cloud.<br/>
+Clean code advocate. n8n automation builder.
+</blockquote>
 
-</div>
-
----
-
-<div align="center">
-
-### 🧬 · A B O U T · M E · 🧬
-
-Full Stack Developer from Odisha, India — building fast, scalable products that solve real problems. Shipped *15+ REST APIs, **25+ React components* & *13 Firebase Cloud Functions* at *Bytebix Technologies. Clean code advocate, **n8n* automation builder, and currently deep in *React Native, **DSA with Python* & *AWS Cloud*.
-
-</div>
-
----
+<div align="center"><b>›› STACK</b></div>
+<hr/>
 
 <div align="center">
 
-### 🛸 · T E C H · S T A C K · 🛸
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Python](https://skillicons.dev/icons?i=python)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Flask](https://skillicons.dev/icons?i=flask)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Git](https://skillicons.dev/icons?i=git)
-![Postman](https://skillicons.dev/icons?i=postman)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white)
 
 </div>
 
----
+<div align="center"><b>›› CONTRIBUTIONS</b></div>
+<hr/>
 
 <div align="center">
-
-### ⏱️ · W A K A T I M E · S T A T S · ⏱️
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faisal-rabani&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&hide_title=true" width="100%"/>
 </div>
 
----
-
-
-<div align="center">
-
-### 🕸️ · C O N T R I B U T I O N · G R A P H · 🕸️
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faisal-rabani&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
-
-</div>
+<hr/>
+<p align="center"><sub>designed & built by SK Faisal Rabani</sub></p>
