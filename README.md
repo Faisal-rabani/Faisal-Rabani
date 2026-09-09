@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>SK FAISAL RABANI</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=50&duration=3000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=SK+FAISAL+RABANI" alt="SK Faisal Rabani" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Developer;Automation+Architect;React+-+Node.js+-+Python" alt="Typing SVG" />
 
@@ -56,7 +56,7 @@ Clean code advocate. n8n automation builder.
 <hr/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faisal-rabani&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&hide_title=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faisal-rabani&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
 <hr/>
