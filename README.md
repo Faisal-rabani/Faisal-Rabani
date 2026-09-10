@@ -10,7 +10,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FaisalRhji)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/faisal_2525/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Faisal-rabani&label=PROFILE+VIEWS&color=000000&style=for-the-badge)
 
 </div>
 
