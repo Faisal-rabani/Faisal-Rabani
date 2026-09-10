@@ -59,4 +59,4 @@ Clean code advocate. n8n automation builder.
 </div>
 
 <hr/>
-<p align="center"><sub>designed & built by SK Faisal Rabani</sub></p>
+<p align="center"><sub>designed & built by ❤️ SK Faisal Rabani</sub></p>
